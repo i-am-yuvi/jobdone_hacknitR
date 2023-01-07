@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">jobdone_hacknitr</string>
+    <string name="Didn_t_receive_otp_resend">Didn\'t get OTP?  <b>Resend</b></string>
+</resources>
